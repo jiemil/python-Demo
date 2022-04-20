@@ -376,3 +376,12 @@ Python关于数字的20个操作
 ## 原文地址
 
 Python小例子 https://github.com/jackzhenguo/python-small-examples
+#
+### 团队其他项目-如本项目能帮助到您，请右上角帮我们点亮 ★star 以示鼓励！
+- [Python小白互动学习基础教程+一体化实训软件](https://github.com/CodeBang06/Pythoncoder)
+- [Python语法基础课Python-syntax-courses](https://github.com/CodeBang06/Python-syntax-courses)
+- [Ashare最简股票行情数据接口API,A股行情完全开源免费](https://github.com/CodeBang06/Ashare)
+
+请微信扫码加入Python技术交流群获取教程的配套资料
+
+![75](https://user-images.githubusercontent.com/103555341/163770456-42dbd01a-60c2-48f4-9321-04849ac35436.jpg)
