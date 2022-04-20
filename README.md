@@ -4,7 +4,6 @@
 <img src="https://img.shields.io/badge/-%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90-yellowgreen">
 <img src="https://img.shields.io/badge/-%E7%AE%97%E6%B3%95-yellow">
 <img src="https://img.shields.io/badge/-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-lightgrey">
-<a href="https://static01.imgkr.com/temp/c6e10a16c4764dcdb32587760f6769ec.png" width="28%"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-Python%E5%B0%8F%E4%BE%8B%E5%AD%90-orange"></a>
 </div>
 <br>
 
@@ -17,15 +16,11 @@
 
 告别枯燥，告别枯燥，致力于打造 Python 经典小例子、小案例。 
 
-同时托管在[Python中文网](http://www.zglg.work/python-small-examples/)
-
 使用Python制作的各种小工具：[Python实用小工具](http://www.zglg.work:5000/pytools)
 
 ## License
 
-允许按照要求转载，但禁止用于任何商用目的。如果转载本库小例子、小案例，请备注下方链接：
-
-Python小例子 https://github.com/jackzhenguo/python-small-examples
+允许按照要求转载，但禁止用于任何商用目的。
 
 ## Python 小例子
 
@@ -377,3 +372,7 @@ Python关于数字的20个操作
 15 [更有用的数组操作](http://www.zglg.work/numpy/numpy-more-array-operations/)
 
 16 [生成随机数](http://www.zglg.work/numpy/numpy-generate-random-number/)
+
+## 原文地址
+
+Python小例子 https://github.com/jackzhenguo/python-small-examples
